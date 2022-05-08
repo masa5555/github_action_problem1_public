@@ -1,0 +1,2 @@
+# github_action_problem1_public
+github 内の操作だけで解ける
