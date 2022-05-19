@@ -4,4 +4,5 @@ github 内の操作だけで解ける
 ✔️ Solved
 
 # 追記
-フォークからのプルリクエストではGithubの機能でSECRETは表示されないらしい
+pull_requestのイベントトリガだと、フォークからのプルリクエストではGithubの機能でSECRETは表示されないらしい
+pull_reuqest_targetだと表示される
